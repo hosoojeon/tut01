@@ -1,7 +1,7 @@
 # 나의 첫 GitHub Markdown 연습
 
 ## 자기소개
-만나서 반갑습니다. 첫째 마크다운을 배우는 중입니다.
+만나서 반갑습니다. 전호수입니다. 첫째 마크다운을 배우는 중입니다.
 
 ## 관심 분야
 - 프로그래밍
@@ -31,7 +31,7 @@ greet("홍길동")
 ## 링크와 이미지
 [Google로 가기](https://www.google.com)
 
-귀여운 고양이 이미지:
+외계 고양이 이미지:
 
 ![고양이](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeZl-C3k4bb4JGIa5w35MOS3JqeG_F--4Xqg&s)
 
