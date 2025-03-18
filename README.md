@@ -1,4 +1,4 @@
-fffff# 나의 첫 GitHub Markdown 연습
+# 나의 첫 GitHub Markdown 연습
 
 ## 자기소개
 만나서 반갑습니다. 첫째 마크다운을 배우는 중입니다.
