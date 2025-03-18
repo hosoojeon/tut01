@@ -33,7 +33,7 @@ greet("홍길동")
 
 귀여운 고양이 이미지:
 
-![고양이](https://placekitten.com/400/300)
+![고양이](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmlbpark.donga.com%2Fmp%2Fb.php%3Fid%3D202106180056349789%26p%3D91%26b%3Dbullpen%26m%3Dview%26select%3D%26query%3D%26user%3D%26site%3Ddonga.com&psig=AOvVaw3ZDDs2h1v9EYLvC-1fqmgN&ust=1742371753599000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNCi-eKWk4wDFQAAAAAdAAAAABAE)
 
 ## 할 일 목록
 - [x] 깃헙 계정 만들기
